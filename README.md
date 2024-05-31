@@ -2,7 +2,7 @@
 
 Zoho Summer Internship Start Date - 21 May 2024
 
-Task to analyse and make a performance testing/ benchmarking tool for mysql
+Task : To analyse and make a performance testing/ benchmarking tool for mysql
 
 Analysed some of the tools for benchmarking, choosed sysbench due to it gives some more parameters
 
