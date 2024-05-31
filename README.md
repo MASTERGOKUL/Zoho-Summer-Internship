@@ -2,6 +2,13 @@
 
 Zoho Summer Internship Start Date - 21 May 2024
 
+Task to analyse and make a performance testing/ benchmarking tool for mysql
+
+Analysed some of the tools for benchmarking, choosed sysbench due to it gives some more parameters
+
+Created a simple web application that can run some load test using sysbench to make benchmarking easier...
+
+
 1. The main code of sysbench is inside "Sysbench directory", it got lot of version
   The code that is actually running the webs are inside
 * sysbench -> sysbench_prepare_param.sh (to prepare database for the test)
