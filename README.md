@@ -22,4 +22,4 @@ Zoho Summer Internship Start Date - 21 May 2024
   * Java/sysbench/src/main/java/com/sysbench/connection/  -> java files related to db connection
   * Java/sysbench/src/main/java/com/sysbench/servlet -> java files related to servlet
   * Java/sysbench/src/main/webapp -> java files related to jsp
-  * some of the jsp and the html likely same , first created the html to made the design and made the jsp to add the java code 
+  * some of the jsp and the html likely same , first created the html to make the design and made the jsp to add the java code 
