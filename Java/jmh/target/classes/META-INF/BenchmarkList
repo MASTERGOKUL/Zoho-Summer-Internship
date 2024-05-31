@@ -1,0 +1,2 @@
+JMH S 15 com.MyBenchmark S 49 com.jmh_generated.MyBenchmark_testMethod2_jmhTest S 11 testMethod2 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 15 com.MyBenchmark S 49 com.jmh_generated.MyBenchmark_testMethod1_jmhTest S 11 testMethod1 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
