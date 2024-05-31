@@ -1,0 +1,2648 @@
+Friday 24 May 2024 01:29:20 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 4041.98 qps: 48509.71 (r/w/o: 40423.76/0.00/8085.95) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 4016.62 qps: 48194.47 (r/w/o: 40162.22/0.00/8032.24) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 4170.08 qps: 50053.91 (r/w/o: 41712.76/0.00/8341.15) lat (ms,95%): 0.59 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 4221.54 qps: 50655.50 (r/w/o: 42212.42/0.00/8443.08) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+Friday 24 May 2024 01:30:35 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 3555.99 qps: 42689.83 (r/w/o: 35575.86/0.00/7113.97) lat (ms,95%): 0.77 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 3709.77 qps: 44514.25 (r/w/o: 37094.71/0.00/7419.54) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 3885.54 qps: 46624.47 (r/w/o: 38853.39/0.00/7771.08) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 3992.32 qps: 47900.88 (r/w/o: 39916.24/0.00/7984.65) lat (ms,95%): 0.67 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 2 tps: 4018.87 qps: 48231.49 (r/w/o: 40193.74/0.00/8037.75) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 6s ] thds: 2 tps: 3972.10 qps: 47665.23 (r/w/o: 39721.03/0.00/7944.21) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 7s ] thds: 2 tps: 3984.08 qps: 47812.95 (r/w/o: 39844.79/0.00/7968.16) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 8s ] thds: 2 tps: 4143.34 qps: 49707.05 (r/w/o: 41420.38/0.00/8286.67) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 9s ] thds: 2 tps: 3966.11 qps: 47599.33 (r/w/o: 39667.11/0.00/7932.22) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 10s ] thds: 2 tps: 3964.55 qps: 47578.60 (r/w/o: 39649.50/0.00/7929.10) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 11s ] thds: 2 tps: 4140.09 qps: 49685.03 (r/w/o: 41404.85/0.00/8280.17) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 12s ] thds: 2 tps: 4132.81 qps: 49594.68 (r/w/o: 41329.07/0.00/8265.61) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 13s ] thds: 2 tps: 4045.60 qps: 48551.18 (r/w/o: 40459.98/0.00/8091.20) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 14s ] thds: 2 tps: 3631.08 qps: 43554.90 (r/w/o: 36292.75/0.00/7262.15) lat (ms,95%): 1.21 err/s: 0.00 reconn/s: 0.00
+[ 15s ] thds: 2 tps: 3465.79 qps: 41591.45 (r/w/o: 34659.88/0.00/6931.58) lat (ms,95%): 1.25 err/s: 0.00 reconn/s: 0.00
+[ 16s ] thds: 2 tps: 3766.01 qps: 45199.09 (r/w/o: 37667.08/0.00/7532.02) lat (ms,95%): 1.08 err/s: 0.00 reconn/s: 0.00
+[ 17s ] thds: 2 tps: 3455.07 qps: 41454.78 (r/w/o: 34544.65/0.00/6910.13) lat (ms,95%): 1.18 err/s: 0.00 reconn/s: 0.00
+[ 18s ] thds: 2 tps: 3729.99 qps: 44757.91 (r/w/o: 37298.92/0.00/7458.98) lat (ms,95%): 1.12 err/s: 0.00 reconn/s: 0.00
+[ 19s ] thds: 2 tps: 4016.00 qps: 48200.98 (r/w/o: 40167.98/0.00/8033.00) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 2 tps: 3825.00 qps: 45892.99 (r/w/o: 38242.99/0.00/7650.00) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 21s ] thds: 2 tps: 3889.69 qps: 46684.29 (r/w/o: 38904.91/0.00/7779.38) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 22s ] thds: 2 tps: 3994.27 qps: 47930.28 (r/w/o: 39941.74/0.00/7988.55) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 23s ] thds: 2 tps: 4006.14 qps: 48076.71 (r/w/o: 40064.43/0.00/8012.29) lat (ms,95%): 0.63 err/s: 0.00 reconn/s: 0.00
+[ 24s ] thds: 2 tps: 4041.93 qps: 48495.16 (r/w/o: 40411.30/0.00/8083.86) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 25s ] thds: 2 tps: 4032.99 qps: 48405.86 (r/w/o: 40339.88/0.00/8065.98) lat (ms,95%): 0.68 err/s: 0.00 reconn/s: 0.00
+[ 26s ] thds: 2 tps: 3880.95 qps: 46559.44 (r/w/o: 38797.53/0.00/7761.91) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 27s ] thds: 2 tps: 3998.93 qps: 47993.21 (r/w/o: 39995.34/0.00/7997.87) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 28s ] thds: 2 tps: 4135.90 qps: 49636.77 (r/w/o: 41364.98/0.00/8271.80) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 29s ] thds: 2 tps: 3852.77 qps: 46221.27 (r/w/o: 38515.73/0.00/7705.55) lat (ms,95%): 0.63 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 2 tps: 3901.00 qps: 46816.97 (r/w/o: 39014.97/0.00/7801.99) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 31s ] thds: 2 tps: 3953.41 qps: 47440.88 (r/w/o: 39534.06/0.00/7906.81) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 32s ] thds: 2 tps: 4079.03 qps: 48948.40 (r/w/o: 40790.33/0.00/8158.07) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 33s ] thds: 2 tps: 3902.65 qps: 46834.77 (r/w/o: 39029.48/0.00/7805.30) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 34s ] thds: 2 tps: 3901.49 qps: 46819.91 (r/w/o: 39016.92/0.00/7802.98) lat (ms,95%): 0.68 err/s: 0.00 reconn/s: 0.00
+[ 35s ] thds: 2 tps: 3992.83 qps: 47913.93 (r/w/o: 39928.27/0.00/7985.65) lat (ms,95%): 0.63 err/s: 0.00 reconn/s: 0.00
+[ 36s ] thds: 2 tps: 3780.39 qps: 45363.66 (r/w/o: 37802.89/0.00/7560.78) lat (ms,95%): 0.92 err/s: 0.00 reconn/s: 0.00
+[ 37s ] thds: 2 tps: 3510.19 qps: 42118.32 (r/w/o: 35097.93/0.00/7020.39) lat (ms,95%): 1.21 err/s: 0.00 reconn/s: 0.00
+[ 38s ] thds: 2 tps: 3686.93 qps: 44240.18 (r/w/o: 36866.32/0.00/7373.86) lat (ms,95%): 1.21 err/s: 0.00 reconn/s: 0.00
+[ 39s ] thds: 2 tps: 3533.96 qps: 42404.56 (r/w/o: 35336.63/0.00/7067.93) lat (ms,95%): 1.23 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 2 tps: 3964.99 qps: 47578.87 (r/w/o: 39648.89/0.00/7929.98) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 41s ] thds: 2 tps: 4205.54 qps: 50476.44 (r/w/o: 42065.37/0.00/8411.07) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 42s ] thds: 2 tps: 3839.89 qps: 46070.65 (r/w/o: 38390.88/0.00/7679.78) lat (ms,95%): 0.69 err/s: 0.00 reconn/s: 0.00
+[ 43s ] thds: 2 tps: 4171.01 qps: 50057.17 (r/w/o: 41715.14/0.00/8342.03) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 44s ] thds: 2 tps: 4244.92 qps: 50943.07 (r/w/o: 42453.23/0.00/8489.85) lat (ms,95%): 0.58 err/s: 0.00 reconn/s: 0.00
+[ 45s ] thds: 2 tps: 4245.02 qps: 50944.25 (r/w/o: 42454.21/0.00/8490.04) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 46s ] thds: 2 tps: 3939.06 qps: 47265.73 (r/w/o: 39387.61/0.00/7878.12) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 47s ] thds: 2 tps: 3933.07 qps: 47194.85 (r/w/o: 39328.71/0.00/7866.14) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 48s ] thds: 2 tps: 4108.99 qps: 49305.85 (r/w/o: 41087.88/0.00/8217.98) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 49s ] thds: 2 tps: 4071.91 qps: 48865.93 (r/w/o: 40722.11/0.00/8143.82) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 2 tps: 3786.04 qps: 45436.50 (r/w/o: 37864.42/0.00/7572.08) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 51s ] thds: 2 tps: 3900.66 qps: 46800.92 (r/w/o: 38999.60/0.00/7801.32) lat (ms,95%): 0.63 err/s: 0.00 reconn/s: 0.00
+[ 52s ] thds: 2 tps: 3310.28 qps: 39721.31 (r/w/o: 33100.76/0.00/6620.55) lat (ms,95%): 1.30 err/s: 0.00 reconn/s: 0.00
+[ 53s ] thds: 2 tps: 3651.96 qps: 43822.55 (r/w/o: 36518.63/0.00/7303.93) lat (ms,95%): 1.16 err/s: 0.00 reconn/s: 0.00
+[ 54s ] thds: 2 tps: 3881.14 qps: 46569.71 (r/w/o: 38807.43/0.00/7762.29) lat (ms,95%): 0.68 err/s: 0.00 reconn/s: 0.00
+[ 55s ] thds: 2 tps: 3979.83 qps: 47766.91 (r/w/o: 39807.26/0.00/7959.65) lat (ms,95%): 0.63 err/s: 0.00 reconn/s: 0.00
+Friday 24 May 2024 01:32:14 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 3946.54 qps: 47370.41 (r/w/o: 39475.34/0.00/7895.07) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 3687.44 qps: 44255.34 (r/w/o: 36880.45/0.00/7374.89) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 3872.95 qps: 46467.40 (r/w/o: 38721.50/0.00/7745.90) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 3752.94 qps: 45032.33 (r/w/o: 37526.44/0.00/7505.89) lat (ms,95%): 0.67 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            190950
+        write:                           0
+        other:                           38190
+        total:                           229140
+    transactions:                        19095  (3816.98 per sec.)
+    queries:                             229140 (45803.71 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              19095
+
+Latency (ms):
+         min:                                    0.38
+         avg:                                    0.52
+         max:                                    1.70
+         95th percentile:                        0.65
+         sum:                                 9987.22
+
+Threads fairness:
+    events (avg/stddev):           9547.5000/82.50
+    execution time (avg/stddev):   4.9936/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 4 tps: 6252.32 qps: 75041.83 (r/w/o: 62533.19/0.00/12508.64) lat (ms,95%): 0.87 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 4 tps: 6135.53 qps: 73639.35 (r/w/o: 61368.29/0.00/12271.06) lat (ms,95%): 0.87 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 4 tps: 6236.26 qps: 74835.18 (r/w/o: 62362.65/0.00/12472.53) lat (ms,95%): 0.81 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 4 tps: 6421.06 qps: 77046.69 (r/w/o: 64204.58/0.00/12842.12) lat (ms,95%): 0.75 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            313310
+        write:                           0
+        other:                           62662
+        total:                           375972
+    transactions:                        31331  (6262.82 per sec.)
+    queries:                             375972 (75153.81 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0015s
+    total number of events:              31331
+
+Latency (ms):
+         min:                                    0.40
+         avg:                                    0.64
+         max:                                    5.62
+         95th percentile:                        0.81
+         sum:                                19975.98
+
+Threads fairness:
+    events (avg/stddev):           7832.7500/24.04
+    execution time (avg/stddev):   4.9940/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 8 tps: 9156.29 qps: 109913.39 (r/w/o: 91593.83/0.00/18319.56) lat (ms,95%): 1.12 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 8 tps: 9301.66 qps: 111623.87 (r/w/o: 93019.56/0.00/18604.31) lat (ms,95%): 0.97 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 8 tps: 9153.87 qps: 109856.40 (r/w/o: 91549.66/0.00/18306.73) lat (ms,95%): 0.97 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 8 tps: 9134.05 qps: 109598.59 (r/w/o: 91330.49/0.00/18268.10) lat (ms,95%): 0.97 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            456150
+        write:                           0
+        other:                           91230
+        total:                           547380
+    transactions:                        45615  (9117.53 per sec.)
+    queries:                             547380 (109410.35 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0017s
+    total number of events:              45615
+
+Latency (ms):
+         min:                                    0.54
+         avg:                                    0.88
+         max:                                   15.22
+         95th percentile:                        0.99
+         sum:                                39958.60
+
+Threads fairness:
+    events (avg/stddev):           5701.8750/46.39
+    execution time (avg/stddev):   4.9948/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 16 tps: 8530.77 qps: 102489.11 (r/w/o: 85411.58/0.00/17077.52) lat (ms,95%): 2.76 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 16 tps: 8562.75 qps: 102707.03 (r/w/o: 85583.53/0.00/17123.50) lat (ms,95%): 2.66 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 16 tps: 8796.47 qps: 105566.62 (r/w/o: 87973.68/0.00/17592.94) lat (ms,95%): 2.52 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 16 tps: 8792.33 qps: 105513.91 (r/w/o: 87929.26/0.00/17584.65) lat (ms,95%): 2.61 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 16 tps: 8783.88 qps: 105410.57 (r/w/o: 87841.81/0.00/17568.76) lat (ms,95%): 2.61 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            434950
+        write:                           0
+        other:                           86990
+        total:                           521940
+    transactions:                        43495  (8691.30 per sec.)
+    queries:                             521940 (104295.64 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0032s
+    total number of events:              43495
+
+Latency (ms):
+         min:                                    0.76
+         avg:                                    1.84
+         max:                                   20.17
+         95th percentile:                        2.66
+         sum:                                79968.75
+
+Threads fairness:
+    events (avg/stddev):           2718.4375/340.40
+    execution time (avg/stddev):   4.9980/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 32 tps: 8661.75 qps: 104126.64 (r/w/o: 86773.20/0.00/17353.44) lat (ms,95%): 4.65 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 32 tps: 8454.25 qps: 101440.06 (r/w/o: 84530.55/0.00/16909.51) lat (ms,95%): 5.18 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 32 tps: 7956.99 qps: 95458.83 (r/w/o: 79544.86/0.00/15913.97) lat (ms,95%): 5.99 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 32 tps: 8429.78 qps: 101187.34 (r/w/o: 84328.79/0.00/16858.56) lat (ms,95%): 5.47 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 32 tps: 8361.99 qps: 100320.83 (r/w/o: 83597.86/0.00/16722.97) lat (ms,95%): 5.47 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            419090
+        write:                           0
+        other:                           83818
+        total:                           502908
+    transactions:                        41909  (8370.78 per sec.)
+    queries:                             502908 (100449.42 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0052s
+    total number of events:              41909
+
+Latency (ms):
+         min:                                    0.72
+         avg:                                    3.82
+         max:                                   35.63
+         95th percentile:                        5.47
+         sum:                               159978.88
+
+Threads fairness:
+    events (avg/stddev):           1309.6562/277.44
+    execution time (avg/stddev):   4.9993/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 64 tps: 7743.90 qps: 93247.20 (r/w/o: 77699.51/0.00/15547.69) lat (ms,95%): 12.52 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 64 tps: 7841.59 qps: 94099.06 (r/w/o: 78417.88/0.00/15681.18) lat (ms,95%): 11.65 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 64 tps: 7581.07 qps: 91004.81 (r/w/o: 75837.67/0.00/15167.13) lat (ms,95%): 14.21 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 64 tps: 8028.65 qps: 96329.81 (r/w/o: 80277.51/0.00/16052.30) lat (ms,95%): 13.22 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 64 tps: 7349.19 qps: 88182.26 (r/w/o: 73484.88/0.00/14697.38) lat (ms,95%): 15.27 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            386190
+        write:                           0
+        other:                           77238
+        total:                           463428
+    transactions:                        38619  (7706.18 per sec.)
+    queries:                             463428 (92474.18 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0095s
+    total number of events:              38619
+
+Latency (ms):
+         min:                                    0.85
+         avg:                                    8.29
+         max:                                  164.53
+         95th percentile:                       13.70
+         sum:                               320076.21
+
+Threads fairness:
+    events (avg/stddev):           603.4219/143.66
+    execution time (avg/stddev):   5.0012/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 128
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 128 tps: 6477.81 qps: 78480.38 (r/w/o: 65403.98/0.00/13076.40) lat (ms,95%): 36.24 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 128 tps: 6786.48 qps: 81438.77 (r/w/o: 67861.81/0.00/13576.96) lat (ms,95%): 33.12 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 128 tps: 6914.93 qps: 82986.20 (r/w/o: 69162.34/0.00/13823.86) lat (ms,95%): 30.81 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 128 tps: 6490.02 qps: 77907.24 (r/w/o: 64924.20/0.00/12983.04) lat (ms,95%): 41.85 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 128 tps: 6905.28 qps: 82804.29 (r/w/o: 68995.73/0.00/13808.56) lat (ms,95%): 38.94 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            337100
+        write:                           0
+        other:                           67420
+        total:                           404520
+    transactions:                        33710  (6712.72 per sec.)
+    queries:                             404520 (80552.61 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0205s
+    total number of events:              33710
+
+Latency (ms):
+         min:                                    0.76
+         avg:                                   18.99
+         max:                                  273.02
+         95th percentile:                       37.56
+         sum:                               640258.58
+
+Threads fairness:
+    events (avg/stddev):           263.3594/71.72
+    execution time (avg/stddev):   5.0020/0.01
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 256
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 256 tps: 6196.02 qps: 75908.94 (r/w/o: 63267.27/0.00/12641.67) lat (ms,95%): 158.63 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 256 tps: 6364.10 qps: 76233.23 (r/w/o: 63510.02/0.00/12723.20) lat (ms,95%): 86.00 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 256 tps: 6413.15 qps: 77067.80 (r/w/o: 64241.50/0.00/12826.30) lat (ms,95%): 101.13 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 256 tps: 6350.29 qps: 76124.50 (r/w/o: 63422.92/0.00/12701.58) lat (ms,95%): 74.46 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 256 tps: 6457.43 qps: 77554.20 (r/w/o: 64639.34/0.00/12914.86) lat (ms,95%): 86.00 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            320450
+        write:                           0
+        other:                           64090
+        total:                           384540
+    transactions:                        32045  (6354.88 per sec.)
+    queries:                             384540 (76258.58 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0410s
+    total number of events:              32045
+
+Latency (ms):
+         min:                                    0.81
+         avg:                                   39.92
+         max:                                  622.29
+         95th percentile:                       92.42
+         sum:                              1279356.99
+
+Threads fairness:
+    events (avg/stddev):           125.1758/50.45
+    execution time (avg/stddev):   4.9975/0.02
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 512
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 512 tps: 5252.70 qps: 65753.13 (r/w/o: 54757.50/0.00/10995.63) lat (ms,95%): 277.21 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 512 tps: 5262.41 qps: 63298.85 (r/w/o: 52774.03/0.00/10524.82) lat (ms,95%): 520.62 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 512 tps: 5502.03 qps: 65864.32 (r/w/o: 54852.25/0.00/11012.07) lat (ms,95%): 320.17 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 512 tps: 5754.55 qps: 69256.51 (r/w/o: 57747.41/0.00/11509.10) lat (ms,95%): 344.08 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 512 tps: 5244.47 qps: 62952.62 (r/w/o: 52482.66/0.00/10469.96) lat (ms,95%): 458.96 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            275420
+        write:                           0
+        other:                           55084
+        total:                           330504
+    transactions:                        27542  (5377.29 per sec.)
+    queries:                             330504 (64527.45 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.1196s
+    total number of events:              27542
+
+Latency (ms):
+         min:                                    0.74
+         avg:                                   93.41
+         max:                                 1586.76
+         95th percentile:                      427.07
+         sum:                              2572787.43
+
+Threads fairness:
+    events (avg/stddev):           53.7930/21.05
+    execution time (avg/stddev):   5.0250/0.04
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 1024
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 35 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 67 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 71 times)
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 5 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 10 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 11 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 9 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 5 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 3 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 13 times)
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 4 times)
+FATAL: Thread initialization failed!
+Friday 24 May 2024 01:33:08 PM IST
+Friday 24 May 2024 01:33:41 PM IST
+Friday 24 May 2024 01:34:36 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 3902.16 qps: 46829.96 (r/w/o: 39023.63/0.00/7806.32) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 3986.23 qps: 47841.71 (r/w/o: 39869.26/0.00/7972.45) lat (ms,95%): 0.62 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 3934.45 qps: 47224.34 (r/w/o: 39355.45/0.00/7868.89) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 4110.88 qps: 49318.52 (r/w/o: 41096.77/0.00/8221.75) lat (ms,95%): 0.57 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            198390
+        write:                           0
+        other:                           39678
+        total:                           238068
+    transactions:                        19839  (3965.45 per sec.)
+    queries:                             238068 (47585.46 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0018s
+    total number of events:              19839
+
+Latency (ms):
+         min:                                    0.38
+         avg:                                    0.50
+         max:                                    1.43
+         95th percentile:                        0.61
+         sum:                                 9987.35
+
+Threads fairness:
+    events (avg/stddev):           9919.5000/87.50
+    execution time (avg/stddev):   4.9937/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 4 tps: 6559.64 qps: 78728.61 (r/w/o: 65606.34/0.00/13122.27) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 4 tps: 6649.28 qps: 79788.41 (r/w/o: 66488.84/0.00/13299.57) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 4 tps: 6486.84 qps: 77847.12 (r/w/o: 64873.44/0.00/12973.69) lat (ms,95%): 0.74 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 4 tps: 6058.82 qps: 72720.88 (r/w/o: 60603.23/0.00/12117.65) lat (ms,95%): 1.30 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            316540
+        write:                           0
+        other:                           63308
+        total:                           379848
+    transactions:                        31654  (6327.53 per sec.)
+    queries:                             379848 (75930.30 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              31654
+
+Latency (ms):
+         min:                                    0.39
+         avg:                                    0.63
+         max:                                    2.51
+         95th percentile:                        0.80
+         sum:                                19977.11
+
+Threads fairness:
+    events (avg/stddev):           7913.5000/29.69
+    execution time (avg/stddev):   4.9943/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 8 tps: 8587.94 qps: 103099.25 (r/w/o: 85917.37/0.00/17181.88) lat (ms,95%): 1.55 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 8 tps: 8839.09 qps: 106059.02 (r/w/o: 88379.85/0.00/17679.17) lat (ms,95%): 1.55 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 8 tps: 8733.22 qps: 104796.69 (r/w/o: 87329.24/0.00/17467.45) lat (ms,95%): 1.55 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 8 tps: 8667.11 qps: 104011.36 (r/w/o: 86679.13/0.00/17332.23) lat (ms,95%): 1.55 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 8 tps: 8502.99 qps: 102049.87 (r/w/o: 85041.89/0.00/17007.98) lat (ms,95%): 1.58 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            433500
+        write:                           0
+        other:                           86700
+        total:                           520200
+    transactions:                        43350  (8664.99 per sec.)
+    queries:                             520200 (103979.91 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0017s
+    total number of events:              43350
+
+Latency (ms):
+         min:                                    0.51
+         avg:                                    0.92
+         max:                                   10.77
+         95th percentile:                        1.55
+         sum:                                39959.24
+
+Threads fairness:
+    events (avg/stddev):           5418.7500/441.52
+    execution time (avg/stddev):   4.9949/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 16 tps: 8456.14 qps: 101543.51 (r/w/o: 84615.27/0.00/16928.25) lat (ms,95%): 2.91 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 16 tps: 8960.10 qps: 107539.25 (r/w/o: 89620.04/0.00/17919.21) lat (ms,95%): 2.48 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 16 tps: 8885.49 qps: 106619.92 (r/w/o: 88848.93/0.00/17770.99) lat (ms,95%): 2.48 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 16 tps: 8853.75 qps: 106259.00 (r/w/o: 88551.50/0.00/17707.50) lat (ms,95%): 2.61 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 16 tps: 8735.11 qps: 104808.30 (r/w/o: 87339.08/0.00/17469.22) lat (ms,95%): 2.66 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            439170
+        write:                           0
+        other:                           87834
+        total:                           527004
+    transactions:                        43917  (8776.79 per sec.)
+    queries:                             527004 (105321.42 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0025s
+    total number of events:              43917
+
+Latency (ms):
+         min:                                    0.73
+         avg:                                    1.82
+         max:                                   44.81
+         95th percentile:                        2.61
+         sum:                                79957.03
+
+Threads fairness:
+    events (avg/stddev):           2744.8125/339.81
+    execution time (avg/stddev):   4.9973/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 32 tps: 8617.71 qps: 103588.18 (r/w/o: 86322.82/0.00/17265.36) lat (ms,95%): 5.09 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 32 tps: 8059.17 qps: 96712.05 (r/w/o: 80595.71/0.00/16116.34) lat (ms,95%): 5.99 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 32 tps: 7936.03 qps: 95234.34 (r/w/o: 79361.28/0.00/15873.06) lat (ms,95%): 6.91 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 32 tps: 7841.02 qps: 94094.26 (r/w/o: 78411.22/0.00/15683.04) lat (ms,95%): 6.55 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 32 tps: 8268.76 qps: 99174.19 (r/w/o: 82640.66/0.00/16533.53) lat (ms,95%): 5.77 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            407670
+        write:                           0
+        other:                           81534
+        total:                           489204
+    transactions:                        40767  (8143.29 per sec.)
+    queries:                             489204 (97719.49 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0049s
+    total number of events:              40767
+
+Latency (ms):
+         min:                                    0.82
+         avg:                                    3.92
+         max:                                   44.99
+         95th percentile:                        6.09
+         sum:                               159983.54
+
+Threads fairness:
+    events (avg/stddev):           1273.9688/217.07
+    execution time (avg/stddev):   4.9995/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 64 tps: 8016.59 qps: 96587.55 (r/w/o: 80495.45/0.00/16092.10) lat (ms,95%): 11.65 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 64 tps: 8237.46 qps: 98764.58 (r/w/o: 82289.65/0.00/16474.93) lat (ms,95%): 11.04 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 64 tps: 8135.75 qps: 97685.96 (r/w/o: 81413.46/0.00/16272.50) lat (ms,95%): 11.65 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 64 tps: 8185.83 qps: 98201.96 (r/w/o: 81829.30/0.00/16372.66) lat (ms,95%): 11.87 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 64 tps: 8085.53 qps: 97063.33 (r/w/o: 80891.28/0.00/16172.05) lat (ms,95%): 11.65 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            407370
+        write:                           0
+        other:                           81474
+        total:                           488844
+    transactions:                        40737  (8131.55 per sec.)
+    queries:                             488844 (97578.60 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0084s
+    total number of events:              40737
+
+Latency (ms):
+         min:                                    0.84
+         avg:                                    7.86
+         max:                                  170.04
+         95th percentile:                       11.65
+         sum:                               320055.88
+
+Threads fairness:
+    events (avg/stddev):           636.5156/195.89
+    execution time (avg/stddev):   5.0009/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 128
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 128 tps: 6739.00 qps: 81590.44 (r/w/o: 67989.70/0.00/13600.73) lat (ms,95%): 32.53 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 128 tps: 6745.78 qps: 80881.32 (r/w/o: 67395.76/0.00/13485.56) lat (ms,95%): 31.37 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 128 tps: 6547.45 qps: 78678.41 (r/w/o: 65574.51/0.00/13103.90) lat (ms,95%): 38.94 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 128 tps: 6841.88 qps: 82090.55 (r/w/o: 68406.80/0.00/13683.76) lat (ms,95%): 34.95 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 128 tps: 6731.84 qps: 80763.04 (r/w/o: 67307.36/0.00/13455.68) lat (ms,95%): 36.89 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            337530
+        write:                           0
+        other:                           67506
+        total:                           405036
+    transactions:                        33753  (6720.77 per sec.)
+    queries:                             405036 (80649.19 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0209s
+    total number of events:              33753
+
+Latency (ms):
+         min:                                    0.77
+         avg:                                   18.99
+         max:                                  272.32
+         95th percentile:                       34.95
+         sum:                               640905.48
+
+Threads fairness:
+    events (avg/stddev):           263.6953/89.49
+    execution time (avg/stddev):   5.0071/0.01
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 256
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 256 tps: 5617.64 qps: 68726.75 (r/w/o: 57242.03/0.00/11484.73) lat (ms,95%): 170.48 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 256 tps: 5889.27 qps: 70908.25 (r/w/o: 59133.72/0.00/11774.53) lat (ms,95%): 153.02 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 256 tps: 6491.30 qps: 77822.60 (r/w/o: 64845.00/0.00/12977.60) lat (ms,95%): 62.19 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 256 tps: 6426.32 qps: 77128.83 (r/w/o: 64272.19/0.00/12856.64) lat (ms,95%): 73.13 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 256 tps: 6595.98 qps: 79051.79 (r/w/o: 65861.82/0.00/13189.97) lat (ms,95%): 106.75 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            312820
+        write:                           0
+        other:                           62564
+        total:                           375384
+    transactions:                        31282  (6204.10 per sec.)
+    queries:                             375384 (74449.16 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0408s
+    total number of events:              31282
+
+Latency (ms):
+         min:                                    0.81
+         avg:                                   40.87
+         max:                                  823.17
+         95th percentile:                       99.33
+         sum:                              1278376.48
+
+Threads fairness:
+    events (avg/stddev):           122.1953/47.68
+    execution time (avg/stddev):   4.9937/0.02
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 512
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 512 tps: 5663.91 qps: 70616.09 (r/w/o: 58782.00/0.00/11834.09) lat (ms,95%): 153.02 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 512 tps: 6138.91 qps: 74002.61 (r/w/o: 61736.79/0.00/12265.82) lat (ms,95%): 601.29 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 512 tps: 4726.62 qps: 56808.39 (r/w/o: 47355.16/0.00/9453.23) lat (ms,95%): 434.83 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 512 tps: 4593.25 qps: 54835.93 (r/w/o: 45635.42/0.00/9200.50) lat (ms,95%): 390.30 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 512 tps: 4572.14 qps: 54966.63 (r/w/o: 45839.35/0.00/9127.29) lat (ms,95%): 759.88 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            262200
+        write:                           0
+        other:                           52440
+        total:                           314640
+    transactions:                        26220  (5124.13 per sec.)
+    queries:                             314640 (61489.60 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.1149s
+    total number of events:              26220
+
+Latency (ms):
+         min:                                    0.81
+         avg:                                   97.88
+         max:                                 2248.80
+         95th percentile:                      511.33
+         sum:                              2566513.68
+
+Threads fairness:
+    events (avg/stddev):           51.2109/26.67
+    execution time (avg/stddev):   5.0127/0.04
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 1024
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 135 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+(last message repeated 1 times)
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 17 times)
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 139 times)
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 15 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Thread initialization failed!
+Friday 24 May 2024 02:14:29 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 4006.90 qps: 48090.78 (r/w/o: 40074.98/0.00/8015.79) lat (ms,95%): 0.60 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 3906.48 qps: 46876.75 (r/w/o: 39063.79/0.00/7812.96) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 3876.57 qps: 46516.78 (r/w/o: 38763.65/0.00/7753.13) lat (ms,95%): 0.64 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 3850.07 qps: 46209.82 (r/w/o: 38509.68/0.00/7700.14) lat (ms,95%): 0.72 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            197830
+        write:                           0
+        other:                           39566
+        total:                           237396
+    transactions:                        19783  (3954.50 per sec.)
+    queries:                             237396 (47454.05 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0015s
+    total number of events:              19783
+
+Latency (ms):
+         min:                                    0.38
+         avg:                                    0.50
+         max:                                    1.86
+         95th percentile:                        0.63
+         sum:                                 9987.92
+
+Threads fairness:
+    events (avg/stddev):           9891.5000/87.50
+    execution time (avg/stddev):   4.9940/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 4 tps: 6625.27 qps: 79530.20 (r/w/o: 66275.67/0.00/13254.53) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 4 tps: 5756.14 qps: 69064.67 (r/w/o: 57552.39/0.00/11512.28) lat (ms,95%): 1.37 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 4 tps: 5776.38 qps: 69318.59 (r/w/o: 57765.82/0.00/11552.76) lat (ms,95%): 1.34 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 4 tps: 5866.71 qps: 70406.56 (r/w/o: 58673.14/0.00/11733.43) lat (ms,95%): 1.34 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            301470
+        write:                           0
+        other:                           60294
+        total:                           361764
+    transactions:                        30147  (6026.07 per sec.)
+    queries:                             361764 (72312.80 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0015s
+    total number of events:              30147
+
+Latency (ms):
+         min:                                    0.39
+         avg:                                    0.66
+         max:                                    2.43
+         95th percentile:                        1.30
+         sum:                                19976.75
+
+Threads fairness:
+    events (avg/stddev):           7536.7500/32.58
+    execution time (avg/stddev):   4.9942/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+Friday 24 May 2024 02:21:39 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 2063.16 qps: 24773.96 (r/w/o: 20645.63/0.00/4128.33) lat (ms,95%): 1.58 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 2422.21 qps: 29061.50 (r/w/o: 24217.09/0.00/4844.42) lat (ms,95%): 1.27 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 2621.20 qps: 31454.41 (r/w/o: 26212.01/0.00/5242.40) lat (ms,95%): 1.16 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 2760.92 qps: 33127.10 (r/w/o: 27606.25/0.00/5520.85) lat (ms,95%): 1.10 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            129070
+        write:                           0
+        other:                           25814
+        total:                           154884
+    transactions:                        12907  (2580.09 per sec.)
+    queries:                             154884 (30961.12 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              12907
+
+Latency (ms):
+         min:                                    0.39
+         avg:                                    0.77
+         max:                                    3.15
+         95th percentile:                        1.25
+         sum:                                 9991.17
+
+Threads fairness:
+    events (avg/stddev):           6453.5000/12.50
+    execution time (avg/stddev):   4.9956/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 4 tps: 5644.12 qps: 67760.36 (r/w/o: 56467.13/0.00/11293.23) lat (ms,95%): 1.03 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 4 tps: 6093.64 qps: 73112.71 (r/w/o: 60926.43/0.00/12186.29) lat (ms,95%): 0.89 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 4 tps: 6189.36 qps: 74279.27 (r/w/o: 61900.56/0.00/12378.71) lat (ms,95%): 0.87 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 4 tps: 6288.95 qps: 75462.43 (r/w/o: 62885.52/0.00/12576.90) lat (ms,95%): 0.84 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            305370
+        write:                           0
+        other:                           61074
+        total:                           366444
+    transactions:                        30537  (6104.22 per sec.)
+    queries:                             366444 (73250.62 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              30537
+
+Latency (ms):
+         min:                                    0.42
+         avg:                                    0.65
+         max:                                    2.84
+         95th percentile:                        0.89
+         sum:                                19977.01
+
+Threads fairness:
+    events (avg/stddev):           7634.2500/21.19
+    execution time (avg/stddev):   4.9943/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 8 tps: 8993.32 qps: 107960.73 (r/w/o: 89966.11/0.00/17994.62) lat (ms,95%): 1.21 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 8 tps: 9336.17 qps: 112030.98 (r/w/o: 93359.65/0.00/18671.33) lat (ms,95%): 1.08 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 8 tps: 9231.96 qps: 110785.56 (r/w/o: 92320.64/0.00/18464.93) lat (ms,95%): 1.37 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 8 tps: 9170.93 qps: 110046.17 (r/w/o: 91704.31/0.00/18341.86) lat (ms,95%): 1.10 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            458020
+        write:                           0
+        other:                           91604
+        total:                           549624
+    transactions:                        45802  (9155.48 per sec.)
+    queries:                             549624 (109865.71 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0015s
+    total number of events:              45802
+
+Latency (ms):
+         min:                                    0.50
+         avg:                                    0.87
+         max:                                    8.20
+         95th percentile:                        1.16
+         sum:                                39957.48
+
+Threads fairness:
+    events (avg/stddev):           5725.2500/96.72
+    execution time (avg/stddev):   4.9947/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 16 tps: 9008.40 qps: 108171.68 (r/w/o: 90139.91/0.00/18031.78) lat (ms,95%): 2.57 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 16 tps: 8977.04 qps: 107773.52 (r/w/o: 89818.43/0.00/17955.09) lat (ms,95%): 2.57 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 16 tps: 8971.26 qps: 107617.14 (r/w/o: 89677.62/0.00/17939.52) lat (ms,95%): 2.57 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 16 tps: 8914.25 qps: 106983.01 (r/w/o: 89151.51/0.00/17831.50) lat (ms,95%): 2.57 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 16 tps: 8867.26 qps: 106412.14 (r/w/o: 88677.62/0.00/17734.52) lat (ms,95%): 2.61 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            447680
+        write:                           0
+        other:                           89536
+        total:                           537216
+    transactions:                        44768  (8946.65 per sec.)
+    queries:                             537216 (107359.78 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0026s
+    total number of events:              44768
+
+Latency (ms):
+         min:                                    0.55
+         avg:                                    1.79
+         max:                                   12.65
+         95th percentile:                        2.57
+         sum:                                79970.37
+
+Threads fairness:
+    events (avg/stddev):           2798.0000/181.63
+    execution time (avg/stddev):   4.9981/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 32 tps: 8755.65 qps: 105239.46 (r/w/o: 87697.22/0.00/17542.24) lat (ms,95%): 4.65 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 32 tps: 8814.15 qps: 105799.83 (r/w/o: 88171.52/0.00/17628.30) lat (ms,95%): 5.18 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 32 tps: 8784.54 qps: 105410.51 (r/w/o: 87842.43/0.00/17568.09) lat (ms,95%): 4.57 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 32 tps: 8679.56 qps: 104149.68 (r/w/o: 86790.56/0.00/17359.11) lat (ms,95%): 4.65 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 32 tps: 8688.77 qps: 104249.28 (r/w/o: 86869.73/0.00/17379.55) lat (ms,95%): 4.74 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            437690
+        write:                           0
+        other:                           87538
+        total:                           525228
+    transactions:                        43769  (8743.40 per sec.)
+    queries:                             525228 (104920.86 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0045s
+    total number of events:              43769
+
+Latency (ms):
+         min:                                    0.81
+         avg:                                    3.66
+         max:                                   14.37
+         95th percentile:                        4.74
+         sum:                               159989.09
+
+Threads fairness:
+    events (avg/stddev):           1367.7812/164.24
+    execution time (avg/stddev):   4.9997/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 64 tps: 8065.99 qps: 97171.17 (r/w/o: 80979.30/0.00/16191.87) lat (ms,95%): 11.04 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 64 tps: 7775.79 qps: 93284.45 (r/w/o: 77733.88/0.00/15550.57) lat (ms,95%): 11.87 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 64 tps: 6888.20 qps: 82699.46 (r/w/o: 68922.05/0.00/13777.41) lat (ms,95%): 13.70 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 64 tps: 6881.92 qps: 82620.02 (r/w/o: 68857.18/0.00/13762.84) lat (ms,95%): 13.70 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 64 tps: 6765.88 qps: 81135.57 (r/w/o: 67602.81/0.00/13532.76) lat (ms,95%): 18.95 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            364560
+        write:                           0
+        other:                           72912
+        total:                           437472
+    transactions:                        36456  (7272.90 per sec.)
+    queries:                             437472 (87274.79 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0110s
+    total number of events:              36456
+
+Latency (ms):
+         min:                                    0.85
+         avg:                                    8.78
+         max:                                   98.05
+         95th percentile:                       13.70
+         sum:                               320147.83
+
+Threads fairness:
+    events (avg/stddev):           569.6250/115.32
+    execution time (avg/stddev):   5.0023/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 128
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 128 tps: 5918.94 qps: 71752.02 (r/w/o: 59794.35/0.00/11957.67) lat (ms,95%): 44.17 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 128 tps: 6062.86 qps: 72747.29 (r/w/o: 60619.58/0.00/12127.71) lat (ms,95%): 33.12 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 128 tps: 6079.20 qps: 73032.41 (r/w/o: 60873.01/0.00/12159.40) lat (ms,95%): 33.72 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 128 tps: 6158.81 qps: 73904.73 (r/w/o: 61587.11/0.00/12317.62) lat (ms,95%): 35.59 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 128 tps: 6124.70 qps: 73408.45 (r/w/o: 61163.05/0.00/12245.41) lat (ms,95%): 31.37 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            304820
+        write:                           0
+        other:                           60964
+        total:                           365784
+    transactions:                        30482  (6068.34 per sec.)
+    queries:                             365784 (72820.03 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0216s
+    total number of events:              30482
+
+Latency (ms):
+         min:                                    0.98
+         avg:                                   21.01
+         max:                                  334.03
+         95th percentile:                       34.33
+         sum:                               640495.74
+
+Threads fairness:
+    events (avg/stddev):           238.1406/72.58
+    execution time (avg/stddev):   5.0039/0.01
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 256
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 256 tps: 5433.14 qps: 66746.12 (r/w/o: 55639.24/0.00/11106.88) lat (ms,95%): 125.52 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 256 tps: 5814.31 qps: 69719.68 (r/w/o: 58084.07/0.00/11635.61) lat (ms,95%): 95.81 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 256 tps: 5731.42 qps: 68812.99 (r/w/o: 57358.16/0.00/11454.83) lat (ms,95%): 78.60 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 256 tps: 5943.46 qps: 71275.57 (r/w/o: 59386.64/0.00/11888.93) lat (ms,95%): 130.13 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 256 tps: 5731.19 qps: 68759.33 (r/w/o: 57298.94/0.00/11460.39) lat (ms,95%): 87.56 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            289170
+        write:                           0
+        other:                           57834
+        total:                           347004
+    transactions:                        28917  (5730.24 per sec.)
+    queries:                             347004 (68762.84 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0449s
+    total number of events:              28917
+
+Latency (ms):
+         min:                                    0.91
+         avg:                                   44.34
+         max:                                  558.05
+         95th percentile:                       95.81
+         sum:                              1282236.60
+
+Threads fairness:
+    events (avg/stddev):           112.9570/41.97
+    execution time (avg/stddev):   5.0087/0.02
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 512
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 512 tps: 5142.63 qps: 63881.23 (r/w/o: 53099.96/0.00/10781.27) lat (ms,95%): 292.60 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 512 tps: 5720.46 qps: 69061.44 (r/w/o: 57621.53/0.00/11439.91) lat (ms,95%): 419.45 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 512 tps: 5661.24 qps: 67752.77 (r/w/o: 56417.28/0.00/11335.49) lat (ms,95%): 308.84 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 512 tps: 5861.72 qps: 70735.51 (r/w/o: 59030.07/0.00/11705.44) lat (ms,95%): 303.33 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 512 tps: 5734.67 qps: 68450.16 (r/w/o: 56979.81/0.00/11470.35) lat (ms,95%): 337.94 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            286380
+        write:                           0
+        other:                           57276
+        total:                           343656
+    transactions:                        28638  (5615.06 per sec.)
+    queries:                             343656 (67380.76 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0987s
+    total number of events:              28638
+
+Latency (ms):
+         min:                                    0.71
+         avg:                                   89.48
+         max:                                 1439.37
+         95th percentile:                      337.94
+         sum:                              2562515.72
+
+Threads fairness:
+    events (avg/stddev):           55.9336/17.45
+    execution time (avg/stddev):   5.0049/0.04
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 1024
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 9 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 60 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+(last message repeated 1 times)
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 4 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 12 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 3 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+(last message repeated 1 times)
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 7 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: error 1040: Too many connections
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+(last message repeated 1 times)
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Thread initialization failed!
+Friday 24 May 2024 02:46:22 PM IST
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 2
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 2 tps: 4056.53 qps: 48691.32 (r/w/o: 40576.27/0.00/8115.05) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 2 tps: 3885.27 qps: 46621.19 (r/w/o: 38850.66/0.00/7770.53) lat (ms,95%): 0.68 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 2 tps: 3912.00 qps: 46951.00 (r/w/o: 39127.00/0.00/7824.00) lat (ms,95%): 0.65 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 2 tps: 4016.91 qps: 48203.95 (r/w/o: 40170.13/0.00/8033.83) lat (ms,95%): 0.61 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            199060
+        write:                           0
+        other:                           39812
+        total:                           238872
+    transactions:                        19906  (3979.01 per sec.)
+    queries:                             238872 (47748.10 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              19906
+
+Latency (ms):
+         min:                                    0.38
+         avg:                                    0.50
+         max:                                    1.72
+         95th percentile:                        0.62
+         sum:                                 9987.97
+
+Threads fairness:
+    events (avg/stddev):           9953.0000/43.00
+    execution time (avg/stddev):   4.9940/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 4 tps: 6565.48 qps: 78820.68 (r/w/o: 65685.73/0.00/13134.95) lat (ms,95%): 0.73 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 4 tps: 6096.58 qps: 73148.95 (r/w/o: 60955.79/0.00/12193.16) lat (ms,95%): 1.23 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 4 tps: 5822.20 qps: 69879.46 (r/w/o: 58235.05/0.00/11644.41) lat (ms,95%): 1.34 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 4 tps: 5982.30 qps: 71758.61 (r/w/o: 59794.01/0.00/11964.60) lat (ms,95%): 1.32 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            305370
+        write:                           0
+        other:                           61074
+        total:                           366444
+    transactions:                        30537  (6104.29 per sec.)
+    queries:                             366444 (73251.52 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0014s
+    total number of events:              30537
+
+Latency (ms):
+         min:                                    0.39
+         avg:                                    0.65
+         max:                                    2.44
+         95th percentile:                        1.25
+         sum:                                19977.38
+
+Threads fairness:
+    events (avg/stddev):           7634.2500/27.65
+    execution time (avg/stddev):   4.9943/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 8 tps: 8850.46 qps: 106250.42 (r/w/o: 88542.52/0.00/17707.90) lat (ms,95%): 1.52 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 8 tps: 9440.67 qps: 113292.98 (r/w/o: 94411.65/0.00/18881.33) lat (ms,95%): 1.01 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 8 tps: 9578.77 qps: 114939.28 (r/w/o: 95780.73/0.00/19158.55) lat (ms,95%): 0.92 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 8 tps: 9199.87 qps: 110421.49 (r/w/o: 92021.75/0.00/18399.75) lat (ms,95%): 1.04 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            464080
+        write:                           0
+        other:                           92816
+        total:                           556896
+    transactions:                        46408  (9276.41 per sec.)
+    queries:                             556896 (111316.96 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0016s
+    total number of events:              46408
+
+Latency (ms):
+         min:                                    0.51
+         avg:                                    0.86
+         max:                                   11.46
+         95th percentile:                        1.06
+         sum:                                39956.71
+
+Threads fairness:
+    events (avg/stddev):           5801.0000/135.67
+    execution time (avg/stddev):   4.9946/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 16 tps: 9164.85 qps: 110049.05 (r/w/o: 91703.39/0.00/18345.67) lat (ms,95%): 2.52 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 16 tps: 9133.52 qps: 109635.20 (r/w/o: 91368.16/0.00/18267.03) lat (ms,95%): 2.52 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 16 tps: 9052.00 qps: 108597.00 (r/w/o: 90494.00/0.00/18103.00) lat (ms,95%): 2.57 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 16 tps: 8620.81 qps: 103466.77 (r/w/o: 86224.14/0.00/17242.63) lat (ms,95%): 2.71 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 16 tps: 8336.83 qps: 100025.91 (r/w/o: 83354.26/0.00/16671.65) lat (ms,95%): 3.19 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            443360
+        write:                           0
+        other:                           88672
+        total:                           532032
+    transactions:                        44336  (8859.88 per sec.)
+    queries:                             532032 (106318.53 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0029s
+    total number of events:              44336
+
+Latency (ms):
+         min:                                    0.74
+         avg:                                    1.80
+         max:                                   12.90
+         95th percentile:                        2.61
+         sum:                                79962.57
+
+Threads fairness:
+    events (avg/stddev):           2771.0000/251.67
+    execution time (avg/stddev):   4.9977/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 32 tps: 8356.50 qps: 100488.62 (r/w/o: 83743.67/0.00/16744.94) lat (ms,95%): 5.47 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 32 tps: 8927.62 qps: 107095.43 (r/w/o: 89242.19/0.00/17853.24) lat (ms,95%): 4.74 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 32 tps: 8230.50 qps: 98761.02 (r/w/o: 82300.02/0.00/16461.00) lat (ms,95%): 5.37 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 32 tps: 8180.85 qps: 98207.21 (r/w/o: 81844.51/0.00/16362.70) lat (ms,95%): 5.77 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 32 tps: 8426.60 qps: 101089.15 (r/w/o: 84236.96/0.00/16852.19) lat (ms,95%): 5.28 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            421680
+        write:                           0
+        other:                           84336
+        total:                           506016
+    transactions:                        42168  (8421.53 per sec.)
+    queries:                             506016 (101058.41 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0056s
+    total number of events:              42168
+
+Latency (ms):
+         min:                                    0.62
+         avg:                                    3.79
+         max:                                   53.82
+         95th percentile:                        5.37
+         sum:                               160013.17
+
+Threads fairness:
+    events (avg/stddev):           1317.7500/183.49
+    execution time (avg/stddev):   5.0004/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 64 tps: 6496.22 qps: 78280.00 (r/w/o: 65228.67/0.00/13051.32) lat (ms,95%): 15.27 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 64 tps: 6730.98 qps: 80778.82 (r/w/o: 67319.85/0.00/13458.97) lat (ms,95%): 13.70 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 64 tps: 6410.44 qps: 77001.23 (r/w/o: 64174.36/0.00/12826.87) lat (ms,95%): 15.55 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 64 tps: 6378.15 qps: 76522.78 (r/w/o: 63766.49/0.00/12756.30) lat (ms,95%): 15.55 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 64 tps: 6424.09 qps: 77098.10 (r/w/o: 64248.92/0.00/12849.18) lat (ms,95%): 15.00 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            325150
+        write:                           0
+        other:                           65030
+        total:                           390180
+    transactions:                        32515  (6487.64 per sec.)
+    queries:                             390180 (77851.63 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0101s
+    total number of events:              32515
+
+Latency (ms):
+         min:                                    1.00
+         avg:                                    9.84
+         max:                                  111.76
+         95th percentile:                       15.00
+         sum:                               319993.74
+
+Threads fairness:
+    events (avg/stddev):           508.0469/86.62
+    execution time (avg/stddev):   4.9999/0.00
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 128
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 128 tps: 5523.31 qps: 67022.16 (r/w/o: 55853.79/0.00/11168.36) lat (ms,95%): 47.47 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 128 tps: 5775.45 qps: 69379.37 (r/w/o: 57829.48/0.00/11549.89) lat (ms,95%): 49.21 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 128 tps: 5824.09 qps: 69856.06 (r/w/o: 58206.89/0.00/11649.17) lat (ms,95%): 51.02 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 128 tps: 5828.36 qps: 69858.28 (r/w/o: 58202.56/0.00/11655.72) lat (ms,95%): 39.65 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 128 tps: 5804.09 qps: 69686.06 (r/w/o: 58074.88/0.00/11611.18) lat (ms,95%): 38.94 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            288910
+        write:                           0
+        other:                           57782
+        total:                           346692
+    transactions:                        28891  (5750.70 per sec.)
+    queries:                             346692 (69008.44 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0224s
+    total number of events:              28891
+
+Latency (ms):
+         min:                                    0.95
+         avg:                                   22.18
+         max:                                  274.64
+         95th percentile:                       44.98
+         sum:                               640762.93
+
+Threads fairness:
+    events (avg/stddev):           225.7109/63.20
+    execution time (avg/stddev):   5.0060/0.01
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 256
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 256 tps: 4677.41 qps: 57652.47 (r/w/o: 48055.04/0.00/9597.43) lat (ms,95%): 127.81 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 256 tps: 5019.64 qps: 60182.73 (r/w/o: 50145.45/0.00/10037.29) lat (ms,95%): 101.13 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 256 tps: 5387.71 qps: 64717.52 (r/w/o: 53940.10/0.00/10777.42) lat (ms,95%): 112.67 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 256 tps: 5784.17 qps: 69431.11 (r/w/o: 57855.75/0.00/11575.35) lat (ms,95%): 137.35 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 256 tps: 5891.48 qps: 70575.81 (r/w/o: 58801.84/0.00/11773.97) lat (ms,95%): 84.47 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            270240
+        write:                           0
+        other:                           54048
+        total:                           324288
+    transactions:                        27024  (5354.63 per sec.)
+    queries:                             324288 (64255.61 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0451s
+    total number of events:              27024
+
+Latency (ms):
+         min:                                    0.89
+         avg:                                   47.36
+         max:                                  681.67
+         95th percentile:                      108.68
+         sum:                              1279867.61
+
+Threads fairness:
+    events (avg/stddev):           105.5625/39.73
+    execution time (avg/stddev):   4.9995/0.02
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 512
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 1s ] thds: 512 tps: 5178.16 qps: 64872.21 (r/w/o: 54028.34/0.00/10843.88) lat (ms,95%): 262.64 err/s: 0.00 reconn/s: 0.00
+[ 2s ] thds: 512 tps: 5890.31 qps: 71037.67 (r/w/o: 59254.06/0.00/11783.62) lat (ms,95%): 320.17 err/s: 0.00 reconn/s: 0.00
+[ 3s ] thds: 512 tps: 5530.70 qps: 65475.63 (r/w/o: 54412.22/0.00/11063.40) lat (ms,95%): 223.34 err/s: 0.00 reconn/s: 0.00
+[ 4s ] thds: 512 tps: 5857.00 qps: 70346.08 (r/w/o: 58618.07/0.00/11728.02) lat (ms,95%): 390.30 err/s: 0.00 reconn/s: 0.00
+[ 5s ] thds: 512 tps: 5660.85 qps: 68785.02 (r/w/o: 57483.31/0.00/11301.70) lat (ms,95%): 308.84 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            286430
+        write:                           0
+        other:                           57286
+        total:                           343716
+    transactions:                        28643  (5614.86 per sec.)
+    queries:                             343716 (67378.35 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.0997s
+    total number of events:              28643
+
+Latency (ms):
+         min:                                    0.77
+         avg:                                   89.45
+         max:                                 1462.08
+         95th percentile:                      308.84
+         sum:                              2562020.31
+
+Threads fairness:
+    events (avg/stddev):           55.9434/23.56
+    execution time (avg/stddev):   5.0039/0.03
+
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 1024
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 2 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 56 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 33 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 21 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 5 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 20 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+FATAL: error loading module 'oltp_common' from file '/usr/share/sysbench/oltp_common.lua':
+	cannot open /usr/share/sysbench/oltp_common.lua: Too many open files
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 58 times)
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 10 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 16 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2004: Can't create TCP/IP socket (24)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:349: connection creation failed
+FATAL: /usr/share/sysbench/oltp_read_only.lua:22: module 'oltp_common' not found:
+	no field package.preload['oltp_common']
+	no file './oltp_common.lua'
+	no file './oltp_common/init.lua'
+	no file './src/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/5.1/oltp_common/init.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common.lua'
+	no file '/home/gokul-si2711/.luarocks/share/lua/oltp_common/init.lua'
+	no file '/usr/local/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/lua/5.1/oltp_common.lua'
+	no file '/usr/share/sysbench/oltp_common.lua'
+	no file './oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/5.1/oltp_common.so'
+	no file '/home/gokul-si2711/.luarocks/lib/lua/oltp_common.so'
+	no file '/usr/local/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/lua/5.1/oltp_common.so'
+	no file '/usr/lib/x86_64-linux-gnu/sysbench'
+FATAL: Cannot find benchmark '/usr/share/sysbench/oltp_read_only.lua': no such built-in test, file or module
+(last message repeated 9 times)
+FATAL: Thread initialization failed!

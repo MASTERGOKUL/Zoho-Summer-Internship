@@ -1,0 +1,41 @@
+Friday 31 May 2024 03:18:33 PM IST
+************************  1 Threads  ************************
+Average CPU Utilization: 53.49 %
+Average IO wait: 7.90 %
+transactions per sec (18.46)
+minimum latency (ms): 22.03
+maximum latency (ms): 127.70
+average latency (ms): 54.09
+total latency (ms): 5030.42
+************************  2 Threads  ************************
+Average CPU Utilization: 47.57 %
+Average IO wait: 8.29 %
+transactions per sec (32.42)
+minimum latency (ms): 20.36
+maximum latency (ms): 155.22
+average latency (ms): 61.53
+total latency (ms): 10091.21
+************************  3 Threads  ************************
+Average CPU Utilization: 51.71 %
+Average IO wait: 7.58 %
+transactions per sec (45.85)
+minimum latency (ms): 15.85
+maximum latency (ms): 237.32
+average latency (ms): 65.08
+total latency (ms): 15098.12
+************************  4 Threads  ************************
+Average CPU Utilization: 50.63 %
+Average IO wait: 7.60 %
+transactions per sec (87.73)
+minimum latency (ms): 17.05
+maximum latency (ms): 125.42
+average latency (ms): 45.52
+total latency (ms): 20028.39
+************************  5 Threads  ************************
+Average CPU Utilization: 50.53 %
+Average IO wait: 7.59 %
+transactions per sec (115.28)
+minimum latency (ms): 14.77
+maximum latency (ms): 222.13
+average latency (ms): 43.11
+total latency (ms): 25173.68
