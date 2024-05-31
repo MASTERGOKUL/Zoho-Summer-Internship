@@ -17,7 +17,7 @@ Zoho Summer Internship Start Date - 21 May 2024
 * sysbench -> sys_analyse2_param.sh (to get overall the analysis of the test)
 
  ---
-2. You can able to see the website code , it is inside Java -> Sysbench
+2. You can able to see the website code inside Java -> Sysbench
   * The main folders are
   * Java/sysbench/src/main/java/com/sysbench/connection/  -> java files related to db connection
   * Java/sysbench/src/main/java/com/sysbench/servlet -> java files related to servlet
